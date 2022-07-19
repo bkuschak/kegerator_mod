@@ -7,8 +7,8 @@ At the time of writing, the ATTINY212 is currently available at [Digikey](https:
 First, install these libraries:
 
 ```
-https://github.com/contrem/arduino-timer
 https://github.com/SpenceKonde/megaTinyCore
+https://github.com/contrem/arduino-timer
 ```
 
 Configure as shown:
