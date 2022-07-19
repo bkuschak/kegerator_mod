@@ -13,6 +13,6 @@ https://github.com/SpenceKonde/megaTinyCore
 
 Configure as shown:
 
-<img src="arduino_attiny_212_configuration.png" alt="configuration"/>
+<img src="arduino_attiny_212_configuration.png" alt="configuration" width="624"/>
 
 Burn the bootloader once to program the fuses. Then upload the sketch.
