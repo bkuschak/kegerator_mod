@@ -15,4 +15,8 @@ Configure as shown:
 
 <img src="arduino_attiny_212_configuration.png" alt="configuration" width="624"/>
 
+### Programming
+
+Programming can be done with a [UPDI programmer](https://www.amazon.com/dp/B09X64YRLD) and 3 jumper wires temporarily inserted into the board.
+
 Burn the bootloader once to program the fuses. Then upload the sketch.
