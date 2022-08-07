@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+Pick Place for kegerator_mod_rev_b.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/22
+Time:       19:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                           Layer    Footprint                                   Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                
+R1         CRCW06030000Z0EB                  TopLayer RESC1609X50X30LL10T20                       1690.000      1015.000      0        "Thick Film Resistors - SMD 1/10watt ZEROohm Jumper"                                                                       
+C1         "100 nF"                          TopLayer RESC1608X50X30LL20T20                       1650.001      1120.001      0        "Cap Ceramic 0.1uF 16V X5R 10% Pad SMD 0603 85°C Automotive T/R"                                                           
+J1         "Amphenol ICC / FCI 68001-203HLF" TopLayer Amphenol_ICC___FCI_68001-203HLF-Footprint-1 1415.001      1250.001      180      "Conn Unshrouded Header HDR 3 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk"                                     
+J2         "JST S5B-XH-A(LF)(SN)"            TopLayer PCB-exb6w9s1vt6vn89jw8g4-1                  1950.000      1237.520      270      "HEADER, RIGHT ANGLE, 5WAY; Connector Type: Wire-to-Board; Gender: Pin; Ways, No. of: 5; Lead Spacing: 2.5mm; Terminat..." 
+J3         "JST S5B-XH-A(LF)(SN)"            TopLayer PCB-exb6w9s1vt6vn89jw8g4-1                  1250.001      1240.001      90       "HEADER, RIGHT ANGLE, 5WAY; Connector Type: Wire-to-Board; Gender: Pin; Ways, No. of: 5; Lead Spacing: 2.5mm; Terminat..." 
+U1         ATTINY212-SSN                     TopLayer SOP8                                        1648.701      1275.001      180      "Microcontroller with Core Independent Peripherals and picoPower Technology 8-Bit AVR RISC 2KB Flash 8-Pin SOIC"           

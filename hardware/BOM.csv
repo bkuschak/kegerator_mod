@@ -1,7 +1,7 @@
 Quantity,DNS,Designator,Manufacturer,Manufacturer Part Number,Comment,Description
 
-"1","","C1","Taiyo Yuden","EMK107BJ104KAHT","100 nF","Cap Ceramic 0.1uF 16V X5R 10% Pad SMD 0603 85Â°C Automotive T/R"
-"1","DNS","J1","Amphenol","68001-203HLF","Amphenol ICC / FCI 68001-203HLF","Conn Unshrouded Header HDR 3 POS 2.54mm Solder ST Top Entry Thru-Hole BergStikÂ® Bulk"
+"1","","C1","Taiyo Yuden","EMK107BJ104KAHT","100 nF","Cap Ceramic 0.1uF 16V X5R 10% Pad SMD 0603 85°C Automotive T/R"
+"1","DNS","J1","Amphenol","68001-203HLF","Amphenol ICC / FCI 68001-203HLF","Conn Unshrouded Header HDR 3 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk"
 "2","","J2, J3","JST","JST S5B-XH-A(LF)(SN)","JST S5B-XH-A(LF)(SN)","HEADER, RIGHT ANGLE, 5WAY; Connector Type: Wire-to-Board; Gender: Pin; Ways, No. of: 5; Lead Spacing: 2.5mm; Terminat..."
-"1","","R1","Vishay Dale","CRCW06030000Z0EB","CRCW06030000Z0EB","Thick Film Resistors - SMD 1/10watt ZEROohm Jumper"
+"1","DNS","R1","Vishay Dale","CRCW06030000Z0EB","CRCW06030000Z0EB","Thick Film Resistors - SMD 1/10watt ZEROohm Jumper"
 "1","","U1","Microchip","ATTINY212-SSN","ATTINY212-SSN","Microcontroller with Core Independent Peripherals and picoPower Technology 8-Bit AVR RISC 2KB Flash 8-Pin SOIC"
