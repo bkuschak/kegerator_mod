@@ -19,17 +19,19 @@
 
 #include <arduino-timer.h>
 
-#define COMPRESSOR_INPUT_PIN    2   // PA1 - pin 4
-#define COMPRESSOR_OUTPUT_PIN   3   // PA2 - pin 5
-#define FAN_PWM_OUTPUT_PIN      1   // PA7 - pin 3
-#define FAN_PWM_INPUT_PIN       4   // PA3 - pin 7
-#define DEBUG_PIN               0   // PA6 - pin 2
+#define VERSION                 10   // Software version 1.0
+
+#define COMPRESSOR_INPUT_PIN    2     // PA1 - pin 4
+#define COMPRESSOR_OUTPUT_PIN   3     // PA2 - pin 5
+#define FAN_PWM_OUTPUT_PIN      1     // PA7 - pin 3
+#define FAN_PWM_INPUT_PIN       4     // PA3 - pin 7
+#define DEBUG_PIN               0     // PA6 - pin 2
 
 // If input is asserted for > 5 seconds then turn the output on.
 #define ON_DELAY 5
 
-// Once output is turned on, keep it on for at least 60 seconds.
-#define MIN_ON_TIME 60
+// Once output is turned on, keep it on for at least 120 seconds.
+#define MIN_ON_TIME 120
 
 // If input is deasserted for > 5 seconds then goto OFF state.
 #define OFF_DELAY 5
