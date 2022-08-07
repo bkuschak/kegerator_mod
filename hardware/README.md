@@ -17,4 +17,4 @@ Install R1 to allow the fan control to work normally. There's an option to have 
 
 The unit should function as normal, with the exception that compressor minimum on-time and minimum off-time are enforced. Short glitches are filtered out.
 
-<p align="center"><img src="hardware.jpg" alt="ppm_plot" width="800"/></p>
+<p align="center"><img src="../photos/hardware.jpg" alt="ppm_plot" width="800"/></p>
